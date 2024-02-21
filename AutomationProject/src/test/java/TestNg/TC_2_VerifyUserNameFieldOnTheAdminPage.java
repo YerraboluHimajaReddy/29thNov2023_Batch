@@ -13,6 +13,9 @@ public class TC_2_VerifyUserNameFieldOnTheAdminPage extends BaseOrCommonClass {
 
 	@BeforeSuite
 	public void launchBrowser() {
+		
+		
+		
 
 		browserLaunching("chrome");
 
